@@ -15,7 +15,7 @@ Bachelor of Applied Informatics Engineering. Experienced in creating test cases 
 *   Python, PHP language
 *   MySQL, JIRA, Selenium, Microsoft Office, Trello, HTML, CSS, Postman, Katalon tools
 
-### My opensource projects
+### My Opensource Projects
 
 *   [Web CMS SAYT Builder](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Web%20CMS%20SAYT%20Builder)
 *   [Executive Summary Bank BNI](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Executive%20Summary%20Bank%20BNI)
