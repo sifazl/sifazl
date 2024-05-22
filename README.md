@@ -17,12 +17,11 @@ Bachelor of Applied Informatics Engineering. Experienced in creating test cases 
 
 ### My opensource projects
 
-*   [Web CMS SAYT Builder](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Web%20CMS%20SAYT%20Builder). - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [Executive Summary Bank BNI](https://github.com/codegymcommunity/codegym-telegrambot](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Executive%20Summary%20Bank%20BNI)) - CodeGym Telegram bot from the community to the community
-*   [E-Confirmation Yamaha](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/E-Confirmation%20Yamaha) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [JakLoan Bank DKI](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/JakLoan%20Bank%20DKI). - Application for monitoring flight cost based on Skyscanner API
-*   [V-Count](https://github.com/sifazl/V-Count) - Application for monitoring flight cost based on Skyscanner API
-*   [Kanca BOT TI](https://github.com/sifazl/Virtual-Assistant-Kanca-BOT-TI) - Application for monitoring flight cost based on Skyscanner API
+*   [Web CMS SAYT Builder](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Web%20CMS%20SAYT%20Builder) - 
+*   [Executive Summary Bank BNI](Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Executive%20Summary%20Bank%20BNI) - 
+*   [E-Confirmation Yamaha](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/E-Confirmation%20Yamaha) - 
+*   [JakLoan Bank DKI](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/JakLoan%20Bank%20DKI) - 
+*   [Kanca BOT TI](https://github.com/sifazl/Virtual-Assistant-Kanca-BOT-TI) - 
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/sifazl/github-profile-views-counter">
