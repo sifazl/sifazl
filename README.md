@@ -18,7 +18,7 @@ Bachelor of Applied Informatics Engineering. Experienced in creating test cases 
 ### My opensource projects
 
 *   [Web CMS SAYT Builder](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Web%20CMS%20SAYT%20Builder) - 
-*   [Executive Summary Bank BNI](Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Executive%20Summary%20Bank%20BNI) - 
+*   [Executive Summary Bank BNI](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/Executive%20Summary%20Bank%20BNI) - 
 *   [E-Confirmation Yamaha](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/E-Confirmation%20Yamaha) - 
 *   [JakLoan Bank DKI](https://github.com/sifazl/Portofolio-Internship/tree/63c4b9e72b74142bdcc5315509bf7f6ef5a1bc6f/JakLoan%20Bank%20DKI) - 
 *   [Kanca BOT TI](https://github.com/sifazl/Virtual-Assistant-Kanca-BOT-TI) - 
